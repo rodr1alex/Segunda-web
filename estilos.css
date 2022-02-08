@@ -1,0 +1,14 @@
+h1{
+    font-weight: bold;
+    color: blanchedalmond;
+}
+.div1{
+    background-color: pink;
+    width: 600px;
+    height: 200px;
+    text-align: center;
+}
+
+.div2{
+    display: grid;
+}
